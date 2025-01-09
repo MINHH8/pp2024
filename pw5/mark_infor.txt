@@ -1,0 +1,17 @@
+
+ID course:phi, Id student:22ba13224, Mark: 8.9
+ID course:phi, Id student:22ba13121, Mark: 8.9
+ID course:mat, Id student:22ba13224, Mark: 9.9
+ID course:mat, Id student:22ba13121, Mark: 9.9
+ID course:phi, Id student:22ba13224, Mark: 8.9
+ID course:phi, Id student:22ba13121, Mark: 8.9
+ID course:mat, Id student:22ba13224, Mark: 9.9
+ID course:mat, Id student:22ba13121, Mark: 9.9
+ID course:phi, Id student:22ba13224, Mark: 8.9
+ID course:phi, Id student:22ba13121, Mark: 8.9
+ID course:mat, Id student:22ba13224, Mark: 9.9
+ID course:mat, Id student:22ba13121, Mark: 9.9
+ID course:phi, Id student:22ba13224, Mark: 8.9
+ID course:phi, Id student:22ba13121, Mark: 8.9
+ID course:mat, Id student:22ba13224, Mark: 9.9
+ID course:mat, Id student:22ba13121, Mark: 9.9
